@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Senior Engineering Manager currently working at Bonobos.
+I'm a Engineering Lead currently working at Stadium Goods.
 
 <!--
 **avantgrogg/avantgrogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
