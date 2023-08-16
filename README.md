@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Engineering Lead currently working at Stadium Goods.
+I'm a Engineering Manager currently working at ZippyMH.
 
 <!--
 **avantgrogg/avantgrogg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
